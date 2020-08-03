@@ -10,6 +10,8 @@ A list of products and companies that produce items in the United States of Amer
 --------------------
 ## Clothing
 
+[Round House American Made Jeans](https://www.round-house.com/)
+
 ### Footware
 [Alden Shoe Company](http://www.aldenshoe.com)
 [Broken Homme](https://www.brokenhomme.com)
